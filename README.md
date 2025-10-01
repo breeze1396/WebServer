@@ -1,10 +1,23 @@
 # breWebSever
 
-b站 微风中的快乐 有相关解析视频，可以去看看
+# <span style="color:#4db8ff;">breWebServer</span>  
 
-简单的入门项目，想让更多人进入C++行业带领发展
+📺 B站主页：<span style="color:#1f7ed0;">[“微风中的快乐” 解析视频频道](https://space.bilibili.com/630698674?spm_id_from=333.1365.0.0)</span>
 
 互相学习，如果有什么想法可以提出，感谢！！！
+
+
+
+
+
+## 🌈 下一步推荐  
+
+💡 如果你对更进阶的版本感兴趣，可以看看我的下一个项目：  
+👉 <span style="color:#ff6600;">[web_server2 ---- https://github.com/breeze1396/web_server2](https://github.com/breeze1396/web_server2)</span>  
+
+✨ **更高效 · 更炫酷 · 更易扩展！**
+
+
 
 
 
